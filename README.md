@@ -7,8 +7,8 @@
 - 최소 NVIDIA GPU with >= 8GB of VRAM / 권장 4090, 5090, L4
 - SSD 200GB
 - Ubuntu 20.04/22.04
-- Base,ETH sepolia RPC [Alchemy](https://www.alchemy.com/)
-- Base,ETH sepolia ETH [Alchemy](https://www.alchemy.com/faucets/base-sepolia)
+- Base, ETH sepolia RPC [Alchemy](https://www.alchemy.com/)
+- Base, ETH sepolia ETH [Alchemy](https://www.alchemy.com/faucets/base-sepolia)
 
 ## Bento + Broker 노드 설치
 
