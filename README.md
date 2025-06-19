@@ -107,7 +107,10 @@ just broker
 ```
 just broker logs
 ```
-
+![image](https://github.com/user-attachments/assets/18e73816-19ff-4860-8c84-e08589c6decb)
+- 이런식의 로그가 나오면 성공!!
+- https://explorer.beboundless.xyz/provers
+- 여기에 지갑 주소 넣고 나중에 확인해보기
 
 
 
