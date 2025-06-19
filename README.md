@@ -1,5 +1,5 @@
 # Boundless_Korea
-- Prover 노드 돌려보기
+- Bento + Broker 노드 설치
 
 ## 하드웨어, 소프트웨어 요구사항
 - CPU 16쓰레드, >3Ghz
@@ -10,7 +10,7 @@
 - Base,ETH sepolia RPC [Alchemy](https://www.alchemy.com/)
 - Base,ETH sepolia ETH [Alchemy](https://www.alchemy.com/faucets/base-sepolia)
 
-## Prover 노드 설치
+## Bento + Broker 노드 설치
 
 #### 패키지 설치 & 업데이트
 ```
@@ -66,6 +66,8 @@ RUST_LOG=info bento_cli -c 32
 - 제대로 작동하면 다음과 같은 내용이 표시됨
 
 ----------------------------------------------------------------------------------------
+
+
 #### 네트워크 
 - Base Mainnet, Base Sepolia, Ethereum Sepolia 지원
 - Alchemy	사용 [링크](https://www.alchemy.com/)
@@ -77,7 +79,7 @@ RUST_LOG=info bento_cli -c 32
 
 .env.eth-sepolia → Ethereum Sepolia
 
-원하는 네트워크에 따라 해당 파일을 수정해 사용
+- 원하는 네트워크에 따라 해당 파일을 수정해 사용
 
 #### .env.base-sepolia 파일 설정
 - 여기선 Base sepolia로 진행
